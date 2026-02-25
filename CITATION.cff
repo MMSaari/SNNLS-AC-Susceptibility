@@ -5,7 +5,7 @@ version: "v1.0.0"
 date-released: 2026-02-25
 doi: 10.5281/zenodo.XXXX
 
-repository-code: "https://github.com/mawardisaari/SNNLS-AC-Susceptibility"
+repository-code: "https://github.com/MMSaari/SNNLS-AC-Susceptibility"
 license: "MIT"
 preferred-citation:
   type: article
