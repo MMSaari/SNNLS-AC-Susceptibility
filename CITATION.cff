@@ -3,7 +3,7 @@ message: "If you use this code, please cite the associated journal article."
 title: "SNNLS MATLAB Implementation for Hydrodynamic Size Distribution Estimation from AC Susceptibility"
 version: "v1.0.0"
 date-released: 2026-02-25
-doi: 10.5281/zenodo.XXXX
+doi: 10.5281/zenodo.18774474
 
 repository-code: "https://github.com/MMSaari/SNNLS-AC-Susceptibility"
 license: "MIT"
