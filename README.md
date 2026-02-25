@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18774474.svg)](https://doi.org/10.5281/zenodo.18774474) 
+
 # SNNLS for AC Susceptibility-Based Hydrodynamic Size Estimation
 
 Spline-Regularized Non-Negative Least Squares (SNNLS) implementation for hydrodynamic size distribution reconstruction from AC susceptibility data.
